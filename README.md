@@ -45,7 +45,7 @@
 ```
 Single-Page Static Component Architecture:
 ┌─────────────────────────────────────────────┐
-│            HTML5 Document Structure          │
+│            HTML5 Document Structure         │
 │  • Semantic markup with proper hierarchy    │
 │  • Linked CSS stylesheet                    │
 │  • Embedded image reference                 │
@@ -61,7 +61,7 @@ Single-Page Static Component Architecture:
 └─────────────────────────────────────────────┘
                     ↓
 ┌─────────────────────────────────────────────┐
-│          Asset Management Layer              │
+│          Asset Management Layer             │
 │  • Single image asset (100.jpg)             │
 │  • Local file system storage                │
 │  • Relative path referencing                │
