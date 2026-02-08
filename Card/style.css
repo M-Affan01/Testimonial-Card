@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(135deg, #000000 0%, #1a0033 40%, #001f4d 100%);
+    background-attachment: fixed;
+    height: 100%;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    object-fit: cover;
+}
+.quote1{
+    color: white;
+    font-size: 70px;
+    margin-left: 10px;
+}
+.quote2{
+    color: white;
+    font-size: 70px;
+    margin-top: 30px;
+    margin-left: 360px;
+}
+.box-1{
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+    margin: 70px auto;
+    background-color: #131114;
+    border: none;
+    outline: none;
+    box-shadow: 0 0 20px rgb(148, 3, 148) ;
+}
+.box-2{
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+    margin: -40px auto;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+}
+
+.star{
+    color: #f5c518;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 45px;
+    text-shadow: 0 0 10px #f5c518;
+}
+.para1{
+    color: white;
+    margin: 9px 33px;
+    font-style: italic;
+    font-size: 20px;
+}
+h2{
+    margin: 30px 33px;
+    color: #782EA3;
+}
+.p2{
+    margin: -25px 33px;
+    color: white;
+}
